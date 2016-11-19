@@ -79,9 +79,22 @@
     </div>
     <footer>
         <div class="content-wrapper">
-            <div class="float-left">
+            <div>
 
-                <img src="Images/SQL%20Azure.png" />  <img src="Images/zebra-risv-id-lg-color-en3.png" />
+                <table>
+                    <tr>
+                        <th>
+                            <img src="Images/SQL%20Azure.png" /></th>
+                        <th></th>
+                        <img style="float: right;" src="Images/zebra-risv-id-lg-color-en3.png" />
+
+                    </tr>
+
+                </table>
+
+               
+
+               
                 <p>&copy; <%: DateTime.Now.Year %> - Lightning RFID LLC  </p>
             </div>
         </div>
