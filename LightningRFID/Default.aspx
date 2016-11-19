@@ -15,10 +15,10 @@
     </section>
 </asp:Content>
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
-    <h3>Lightning RFID features the following:</h3>
+    <h3>Features the following:</h3>
     <ol class="round">
         <li class="one">
-            <h5>Full featured cloud based warehouse managment software</h5>
+            <h5>Cloud based warehouse managment software</h5>
             Lightning RFID&#39;s warehouse managment software is totally in the cloud providing the security and scalability that you need. </li>
         <li class="two">
             <h5>Realize all the benefits of an end to end RFID enabled solution</h5>

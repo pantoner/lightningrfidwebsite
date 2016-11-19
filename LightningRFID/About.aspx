@@ -2,28 +2,28 @@
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <hgroup class="title">
-        <h1><%: Title %>.</h1>
-        <h2>Your app description page.</h2>
+       <!-- <h1><%: Title %>.</h1> -->
+        <h2>Customize the Application according to the needs of your business</h2>
     </hgroup>
 
     <article>
         <p>        
-            Use this area to provide additional information.
+            IMS warehouse management software 
         </p>
 
         <p>        
-            Use this area to provide additional information.
+            RFID enabled labels for better tracking
         </p>
 
         <p>        
-            Use this area to provide additional information.
+            Cloud database for multi platform utilization and scalability
         </p>
     </article>
 
     <aside>
-        <h3>Aside Title</h3>
+        <h3>Custom Development</h3>
         <p>        
-            Use this area to provide additional information.
+            Have usable working software delivering value to your business fast
         </p>
         <ul>
             <li><a runat="server" href="~/">Home</a></li>
