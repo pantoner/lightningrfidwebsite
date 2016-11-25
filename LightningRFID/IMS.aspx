@@ -102,5 +102,5 @@ The IMS system was designed with the fine art shipping and handling industry in 
     <img src="Images/backupRestore.png" />
    
   
-    </section>
+    
 </asp:Content>

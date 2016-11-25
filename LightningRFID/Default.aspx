@@ -9,7 +9,10 @@
             </hgroup>
             <p>
                 Streamline your shipping and recieving through the utilization of our end to end warehouse management</p>
-            <p>
+                <font color="red"> Fine Art Storage Managment Software on Zebra Android Tablet coming January 2017!!</font>
+
+                 <a href="https://www.zebra.com/us/en/products/tablets/et1.html">ET1 Enterprise Tablet</a>   
+                        <p>
                 &nbsp;</p>
         </div>
     </section>
